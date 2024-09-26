@@ -1,4 +1,4 @@
-A Melee/Unarmed Configurable Damage for Qbcore.
+A Melee/Unarmed Configurable Damage.
 
 - Extract File
 - Add to resources
